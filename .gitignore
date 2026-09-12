@@ -1,0 +1,17 @@
+# macOS and IDE files
+.DS_Store
+.idea/
+.vs/
+*.user
+*.suo
+
+# .NET build output
+**/[Bb]in/
+**/[Oo]bj/
+TestResults/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+!.env.sample
