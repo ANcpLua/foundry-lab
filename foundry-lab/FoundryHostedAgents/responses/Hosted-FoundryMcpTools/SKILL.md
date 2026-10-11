@@ -1,4 +1,10 @@
-﻿# Hosted Foundry MCP Tools C# Guide
+---
+name: foundry-mcp-tools
+description: Maintain the Hosted-FoundryMcpTools C# guide for remote and local MCP
+  tools, session invocation, and tool approvals.
+---
+
+# Hosted Foundry MCP Tools C# Guide
 
 Use this skill when maintaining or extending the `Hosted-FoundryMcpTools` sample guide.
 

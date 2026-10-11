@@ -1,4 +1,10 @@
-﻿# Hosted Foundry IQ C# Guide
+---
+name: foundry-iq
+description: Maintain the Hosted-FoundryIQ C# sample guide, portal provisioning instructions,
+  session-based invocation, and MCP approvals.
+---
+
+# Hosted Foundry IQ C# Guide
 
 Use this skill when maintaining or extending the `Hosted-FoundryIQ` sample guide.
 
